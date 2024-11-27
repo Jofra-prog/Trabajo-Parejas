@@ -38,3 +38,7 @@ while op == 1:
  print (f"y los descuentos aplicados son:\n Manzanas: {cantidad_de_descuento(cm)}\n Papayas: {cantidad_de_descuento(cpa,)}\n Bananos: {cantidad_de_descuento(cb)}")
  
  op = int(input("Ingrese 1 para ingresar una nueva compra o 0 para cerrar el programa"))
+
+
+#hdudidi
+
