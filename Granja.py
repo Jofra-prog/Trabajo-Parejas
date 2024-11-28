@@ -1,3 +1,7 @@
+#Estudiantes: 
+# John Fernando Franco Rojas 
+# Camila
+
 #Cuantos litros de leche se producen por semana en la granja
 import math
 def produccion_leche(V, K, X):
