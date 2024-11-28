@@ -1,5 +1,5 @@
 #Cuantos litros de leche se producen por semana en la granja
-
+import math
 def produccion_leche(V, K, X):
     produccion_leche_por_dia = (V * X) / K
     produccion_leche_por_semana = produccion_leche_por_dia * 7
@@ -27,4 +27,5 @@ smga = ga - pmg
 hv = pmg*d/3
 hv2 = smga*d/5
 
-print(f"la produccion de huevos en {d} dias es de\n {hv + hv2}")
+#math.trunc es para sacar la parte entera de ese numero y que no de todos los numeros despues del punto
+print(f"la produccion de huevos en {d} dias es de\n {math.trunc(hv + hv2)}")
