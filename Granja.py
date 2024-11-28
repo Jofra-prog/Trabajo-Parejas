@@ -17,8 +17,8 @@ print("La producción de leche semanal es de:", produccion_leche_semanal, "litro
 
 #Cuantos huevos producen
 
-av = int(input("Ingrese la cantidad de aves que hay en la granja"))
-d = int(input("Ingrese los dias en los que quiere saber que cantidad de huevos se pueden llegar producir"))
+av = int(input("Ingrese la cantidad de aves que hay en la granja: "))
+d = int(input("Ingrese los dias en los que quiere saber que cantidad de huevos se pueden llegar producir: "))
 
 ga = av/3
 pmg = ga/2
