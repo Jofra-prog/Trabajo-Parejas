@@ -10,5 +10,7 @@ Imagen donde se ve el codigo funcionando
 ## Authors
 
 - [@Jfranco](https://github.com/Jofra-prog)
+- John Fernando Franco Rojas
 - [@ancamicc](https://github.com/ancamicc)
+- Angie Camila Osorio Perelata
 
