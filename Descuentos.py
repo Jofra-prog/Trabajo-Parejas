@@ -40,5 +40,4 @@ while op == 1:
  op = int(input("Ingrese 1 para ingresar una nueva compra o 0 para cerrar el programa"))
 
 
-#hdudidi
 
