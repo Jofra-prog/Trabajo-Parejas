@@ -1,4 +1,4 @@
-# Codigo de primer ejercicio "descuentos"
+# Codigo de primer entrega "descuentos"
 
 Imagen donde se ve el codigo funcionando
 [![Descuentos.png](https://i.postimg.cc/dVcw9xcZ/Descuentos.png)](https://postimg.cc/nC2yFTzn)
